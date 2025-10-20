@@ -1,4 +1,4 @@
-<!--
+
 
 <p><em>When life gives you lemons, neutralize with NaOH &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -40,7 +40,7 @@ Somewhere between science, math, and imagination.
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
 ## 📈 My GitHub Stats!
 
-<!-- [![Aheli's GitHub Stats] -->
+<!-- [!GitHub Stats] -->
 
 
 <a href="https://github.com/vassu-v/github-readme-stats">
