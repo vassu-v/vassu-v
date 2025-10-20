@@ -6,12 +6,10 @@
 <br>
 
 <p>
-    <a href="https://twitter.com/XAheli"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aheli-poddar-263294216/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
+    <a href="https://x.com/shoryavardhaan"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/shoryavardhaan/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
 
 
-
-<h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more about me...</h2>
 
 ### 🧠 About Me
 Always asking why.  
@@ -53,4 +51,4 @@ Somewhere between science, math, and imagination.
 
 
 
-![Aheli Poddar](./bottom_header.svg)
+![waves](./bottom_header.svg)
