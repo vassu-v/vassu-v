@@ -6,7 +6,6 @@
 <br>
 
 <p>
-    <a href="https://x.com/shoryavardhaan"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/shoryavardhaan/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
 
 
@@ -36,17 +35,6 @@ Somewhere between science, math, and imagination.
 
 <!--<img src='https://cdnq.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg' width="5%" height="5%">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
-## 📈 My GitHub Stats!
-
-<!-- [!GitHub Stats] -->
-
-
-<a href="https://github.com/vassu-v/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vassu-v" />
-</a>
-<a href="https://github.com/vassu-v/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vassu-v&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 
 
