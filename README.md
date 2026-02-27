@@ -17,7 +17,7 @@ Somewhere between science, math, and imagination.
 
 ### 🔭 What I'm Doing
 
-🎓 High schooler exploring science, computation, and how systems connect  
+🎓 Student exploring science, computation, and how systems connect  
 ⚙️ Interested in neurotech, brain–computer interfaces, and creative AI systems  
 💡 Building ideas — blending cognitive science and technology  
 📚 Learning Python, computational modeling, and Life  
