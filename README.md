@@ -22,7 +22,7 @@ Somewhere between science, math, and imagination.
 💡 Building ideas — blending cognitive science and technology  
 📚 Learning Python, computational modeling, and Life  
 🤝 Open to collaborations or learning opportunities in AI, cognitive science, and open research  
-📫 Reach me at: shoryavardhaans2@gmail.com
+📫 Reach me at: shoryavardhaan@gmail.com
 
 
 
