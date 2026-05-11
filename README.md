@@ -12,17 +12,17 @@
 
 ### 🧠 About Me
 Always asking why.  
-Trying to make sense of how things work — from code to consciousness.  
+Trying to make sense of how things work - from code to consciousness.  
 Somewhere between science, math, and imagination.
 
 ### 🔭 What I'm Doing
 
 🎓 Student exploring science, computation, and how systems connect  
 ⚙️ Interested in neurotech, brain–computer interfaces, and creative AI systems  
-💡 Building ideas — blending cognitive science and technology  
+💡 Building ideas, blending cognitive science and technology  
 📚 Learning Python, computational modeling, and Life  
 🤝 Open to collaborations or learning opportunities in AI, cognitive science, and open research  
-📫 Reach me at: shoryavardhaan@gmail.com
+📫 Reach me at: shoryavardhaans2@gmail.com
 
 
 
