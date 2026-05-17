@@ -8,7 +8,7 @@
 <p>
     <a href="https://www.linkedin.com/in/shoryavardhaan/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
 
-markdown[![Support](https://raw.githubusercontent.com/vassu-v/Buy4Chai/main/public/badges/personal.svg)](https://buy4chai-vassu-v.vercel.app/)
+[![Support](https://raw.githubusercontent.com/vassu-v/Buy4Chai/main/public/badges/badge.svg)](https://buy4chai-vassu-v.vercel.app/)
 
 ### 🧠 About Me
 Always asking why.  
