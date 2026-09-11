@@ -4,9 +4,7 @@
 
 17-year-old developer based in Kolkata, India. Focused on computer science, AI applications, and software.
 
-<img src="https://img.shields.io/badge/role-student%20developer-c57b2b?style=flat-square" alt="Role: student developer" />
-<img src="https://img.shields.io/badge/location-Kolkata%2C%20India-2f7fd6?style=flat-square" alt="Location: Kolkata, India" />
-<img src="https://img.shields.io/badge/focus-CS%20%26%20AI%20applications-3fae5b?style=flat-square" alt="Focus: computer science and AI applications" />
+<img src="https://img.shields.io/badge/role-student%20developer-c57b2b?style=flat-square" alt="Role: student developer" /> <img src="https://img.shields.io/badge/location-Kolkata%2C%20India-2f7fd6?style=flat-square" alt="Location: Kolkata, India" /> <img src="https://img.shields.io/badge/focus-CS%20%26%20AI%20applications-3fae5b?style=flat-square" alt="Focus: computer science and AI applications" />
 
 <br clear="left" />
 
