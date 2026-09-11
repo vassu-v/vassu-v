@@ -8,7 +8,7 @@
 
 <br clear="left" />
 
-I build things that solve problems I've actually run into: an off-grid mesh network for disaster comms, a civic-tech assistant for government schemes, a self-hosted way for people to support indie builders. Pinned repos below have the details. More on how I think about building: [why I build](https://shoryavardhaan.vercel.app/blog/why-i-build).
+I build things that solve problems I've actually run into: a LiFi-based disaster-resilient communication network, an AI civic-tech assistant for Indian government schemes, a self-hosted way for people to support indie builders. Pinned repos below have the details. More on how I think about building: [why I build](https://shoryavardhaan.vercel.app/blog/why-i-build).
 
 ### Currently exploring
 
