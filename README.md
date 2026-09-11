@@ -1,4 +1,4 @@
-<img align="left" width="150" src="./shorya.png" alt="Shoryavardhaan Gupta" />
+<img align="left" width="150" src="./shorya.png" alt="Shoryavardhaan Gupta, student developer based in Kolkata, India" />
 
 ### Shoryavardhaan Gupta
 
@@ -9,6 +9,8 @@
 <br clear="left" />
 
 I build things that solve problems I've actually run into: a LiFi-based disaster-resilient communication network, an AI civic-tech assistant for Indian government schemes, a self-hosted way for people to support indie builders. Pinned repos below have the details. More on how I think about building: [why I build](https://shoryavardhaan.vercel.app/blog/why-i-build).
+
+Open to collaborating on AI applications, civic-tech, and disaster-response software — reach out if you're working on something similar.
 
 ### Currently exploring
 
@@ -30,6 +32,8 @@ Works primarily in Python, C, and JavaScript/Node.js.
 </p>
 
 ### Elsewhere
+
+Full project write-ups and case studies live on my [portfolio](https://shoryavardhaan.vercel.app). Published research on grounded/embodied planning is indexed on [ORCID](https://orcid.org/0009-0009-1370-5230). I'm also on [LinkedIn](https://www.linkedin.com/in/shoryavardhaan/), or reach me directly at [shoryavardhaans2@gmail.com](mailto:shoryavardhaans2@gmail.com).
 
 <p align="center">
   <a href="https://shoryavardhaan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
