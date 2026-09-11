@@ -1,42 +1,41 @@
+### Shoryavardhaan Gupta — 17-year-old developer based in Kolkata, India, building in neurotech, brain–computer interfaces, and applied AI.
 
+I've been shipping real, working things since 2023 — student projects that solve problems I've actually run into, from a disaster-resilient LiFi network to a civic-tech tool for Indian government schemes. More on [my site](https://shoryavardhaan.vercel.app), including how I think about building: [why I build](https://shoryavardhaan.vercel.app/blog/why-i-build).
 
-<p><em>When life gives you lemons, neutralize with NaOH &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+| | |
+|---|---|
+| **Role** | Student developer & researcher |
+| **Focus** | Neurotech, brain–computer interfaces, applied AI, civic tech |
+| **Location** | Kolkata, India |
+| **Building since** | 2023 |
+| **Site** | [shoryavardhaan.vercel.app](https://shoryavardhaan.vercel.app) |
+| **Contact** | [shoryavardhaans2@gmail.com](mailto:shoryavardhaans2@gmail.com) |
 
-<br>
+### Currently building
 
-<p>
-    <a href="https://www.linkedin.com/in/shoryavardhaan/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
+- **[Buy4Chai](https://github.com/vassu-v/Buy4Chai)** — a micro-support tool so anyone can back independent builders, one chai at a time.
+- **[SarkarSathi](https://github.com/vassu-v/india-innovates-CivicNTech)** — civic-tech assistant that helps people find and navigate Indian government schemes they actually qualify for.
+- **[Disaster-Resilient LiFi Network](https://github.com/vassu-v/D-LiFi-Proto)** — a light-based communication prototype designed to keep working when conventional networks fail.
+- **[ChemX](https://github.com/vassu-v/ChemX_001)** — a chemistry tool built to make lab concepts easier to explore.
+- **[Grounded Planning Research](https://zenodo.org/records/19513284)** — published research on grounded/embodied planning, on Zenodo.
+
+Full write-ups, problem/solution/impact breakdowns, and more projects: [shoryavardhaan.vercel.app](https://shoryavardhaan.vercel.app).
+
+### GitHub stats
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=vassu-v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shoryavardhaan's GitHub stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vassu-v&layout=compact&theme=tokyonight&hide_border=true" alt="Shoryavardhaan's most-used languages" /></td>
+</tr>
+</table>
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,cpp,arduino,figma,git" alt="Python, JavaScript, React, Node.js, C++, Arduino, Figma, Git" />
+
+### Elsewhere
+
+[Portfolio](https://shoryavardhaan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/shoryavardhaan/) · [Zenodo](https://zenodo.org/records/19513284) · [ORCID](https://orcid.org/0009-0009-1370-5230) · [Email](mailto:shoryavardhaans2@gmail.com)
 
 [![Support](https://raw.githubusercontent.com/vassu-v/Buy4Chai/main/public/badges/badge.svg)](https://buy4chai-vassu-v.vercel.app/)
-
-### 🧠 About Me
-Always asking why.  
-Trying to make sense of how things work - from code to consciousness.  
-Somewhere between science, math, and imagination.
-
-### 🔭 What I'm Doing
-
-🎓 Student exploring science, computation, and how systems connect  
-⚙️ Interested in neurotech, brain–computer interfaces, and creative AI systems  
-💡 Building ideas, blending cognitive science and technology  
-📚 Learning Python, computational modeling, and Life  
-🤝 Open to collaborations or learning opportunities in AI, cognitive science, and open research  
-📫 Reach me at: shoryavardhaans2@gmail.com
-
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
-</p>
-
-
-    
-
-<!--<img src='https://cdnq.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg' width="5%" height="5%">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg' width="5%" height="5%">-->
-
-
-
-
-![waves](./bottom_header.svg)
