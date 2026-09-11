@@ -2,7 +2,7 @@
 
 ### Shoryavardhaan Gupta
 
-17-year-old developer based in Kolkata, India. Focused on computer science, AI applications, and software.
+**Shoryavardhaan Gupta** is a student developer based in Kolkata, India, working on AI applications, grounded planning research, and civic/disaster-response software.
 
 <img src="https://img.shields.io/badge/role-student%20developer-c57b2b?style=flat-square" alt="Role: student developer" /> <img src="https://img.shields.io/badge/location-Kolkata%2C%20India-2f7fd6?style=flat-square" alt="Location: Kolkata, India" /> <img src="https://img.shields.io/badge/focus-CS%20%26%20AI%20applications-3fae5b?style=flat-square" alt="Focus: computer science and AI applications" />
 
@@ -15,6 +15,8 @@ I build things that solve problems I've actually run into: an off-grid mesh netw
 Applied AI, grounded/embodied planning in AI systems, and software that solves real problems — plus a growing curiosity about neurotech and brain–computer interfaces I haven't built in yet. Published research on grounded planning is on [ORCID](https://orcid.org/0009-0009-1370-5230).
 
 ### Stack
+
+Works primarily in Python, C, and JavaScript/Node.js.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,js,nodejs" alt="Python, C, JavaScript, Node.js" />
