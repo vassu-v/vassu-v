@@ -1,9 +1,17 @@
-<h3 align="center">Shoryavardhaan Gupta</h3>
-<p align="center">17-year-old developer based in Kolkata, India. Building in neurotech, brain–computer interfaces, and applied AI.</p>
+<table>
+<tr>
+<td width="180"><img src="./shorya.png" width="160" alt="Shoryavardhaan Gupta" /></td>
+<td>
+<h3>Shoryavardhaan Gupta</h3>
+<p>17-year-old developer based in Kolkata, India. Building in neurotech, brain–computer interfaces, and applied AI.</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/role-student%20developer-c57b2b?style=flat-square" alt="Role: student developer" />
-  <img src="https://img.shields.io/badge/location-Kolkata%2C%20India-c57b2b?style=flat-square" alt="Location: Kolkata, India" />
+  <img src="https://img.shields.io/badge/location-Kolkata%2C%20India-2f7fd6?style=flat-square" alt="Location: Kolkata, India" />
+  <img src="https://img.shields.io/badge/focus-neurotech%20%26%20BCI-3fae5b?style=flat-square" alt="Focus: neurotech and brain-computer interfaces" />
 </p>
 
 I build things that solve problems I've actually run into: an off-grid mesh network for disaster comms, a civic-tech assistant for government schemes, a self-hosted way for people to support indie builders. Pinned repos below have the details. More on how I think about building: [why I build](https://shoryavardhaan.vercel.app/blog/why-i-build).
@@ -15,6 +23,12 @@ Neurotech and brain–computer interfaces, grounded/embodied planning in AI syst
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=python,c,js,nodejs" alt="Python, C, JavaScript, Node.js" />
+
+### Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vassu-v&theme=tokyonight&hide_border=true" alt="Shoryavardhaan's GitHub contribution streak" />
+</p>
 
 ### Elsewhere
 
