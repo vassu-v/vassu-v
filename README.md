@@ -1,18 +1,14 @@
-<table>
-<tr>
-<td width="180"><img src="./shorya.png" width="160" alt="Shoryavardhaan Gupta" /></td>
-<td>
-<h3>Shoryavardhaan Gupta</h3>
-<p>17-year-old developer based in Kolkata, India. Focused on computer science, AI applications, and software.</p>
-</td>
-</tr>
-</table>
+<img align="left" width="150" src="./shorya.png" alt="Shoryavardhaan Gupta" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/role-student%20developer-c57b2b?style=flat-square" alt="Role: student developer" />
-  <img src="https://img.shields.io/badge/location-Kolkata%2C%20India-2f7fd6?style=flat-square" alt="Location: Kolkata, India" />
-  <img src="https://img.shields.io/badge/focus-CS%20%26%20AI%20applications-3fae5b?style=flat-square" alt="Focus: computer science and AI applications" />
-</p>
+### Shoryavardhaan Gupta
+
+17-year-old developer based in Kolkata, India. Focused on computer science, AI applications, and software.
+
+<img src="https://img.shields.io/badge/role-student%20developer-c57b2b?style=flat-square" alt="Role: student developer" />
+<img src="https://img.shields.io/badge/location-Kolkata%2C%20India-2f7fd6?style=flat-square" alt="Location: Kolkata, India" />
+<img src="https://img.shields.io/badge/focus-CS%20%26%20AI%20applications-3fae5b?style=flat-square" alt="Focus: computer science and AI applications" />
+
+<br clear="left" />
 
 I build things that solve problems I've actually run into: an off-grid mesh network for disaster comms, a civic-tech assistant for government schemes, a self-hosted way for people to support indie builders. Pinned repos below have the details. More on how I think about building: [why I build](https://shoryavardhaan.vercel.app/blog/why-i-build).
 
@@ -22,21 +18,24 @@ Applied AI, grounded/embodied planning in AI systems, and software that solves r
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,c,js,nodejs" alt="Python, C, JavaScript, Node.js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,nodejs" alt="Python, C, JavaScript, Node.js" />
+</p>
 
-### Streak
+### GitHub stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vassu-v&theme=tokyonight&hide_border=true" alt="Shoryavardhaan's GitHub contribution streak" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=vassu-v&show_icons=true&hide_border=true&title_color=c57b2b&icon_color=c57b2b&text_color=e8e8e8&bg_color=0d0d0d&count_private=true" alt="Shoryavardhaan's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vassu-v&layout=compact&hide_border=true&title_color=c57b2b&text_color=e8e8e8&bg_color=0d0d0d" alt="Shoryavardhaan's most-used languages" />
 </p>
 
 ### Elsewhere
 
 <p align="center">
-  <a href="https://shoryavardhaan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-090909?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/shoryavardhaan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://orcid.org/0009-0009-1370-5230"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="mailto:shoryavardhaans2@gmail.com"><img src="https://img.shields.io/badge/Email-090909?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://shoryavardhaan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shoryavardhaan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://orcid.org/0009-0009-1370-5230"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="mailto:shoryavardhaans2@gmail.com"><img src="https://img.shields.io/badge/Email-090909?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
