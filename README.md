@@ -3,7 +3,7 @@
 <td width="180"><img src="./shorya.png" width="160" alt="Shoryavardhaan Gupta" /></td>
 <td>
 <h3>Shoryavardhaan Gupta</h3>
-<p>17-year-old developer based in Kolkata, India. Building in neurotech, brain–computer interfaces, and applied AI.</p>
+<p>17-year-old developer based in Kolkata, India. Focused on computer science, AI applications, and software.</p>
 </td>
 </tr>
 </table>
@@ -11,14 +11,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/role-student%20developer-c57b2b?style=flat-square" alt="Role: student developer" />
   <img src="https://img.shields.io/badge/location-Kolkata%2C%20India-2f7fd6?style=flat-square" alt="Location: Kolkata, India" />
-  <img src="https://img.shields.io/badge/focus-neurotech%20%26%20BCI-3fae5b?style=flat-square" alt="Focus: neurotech and brain-computer interfaces" />
+  <img src="https://img.shields.io/badge/focus-CS%20%26%20AI%20applications-3fae5b?style=flat-square" alt="Focus: computer science and AI applications" />
 </p>
 
 I build things that solve problems I've actually run into: an off-grid mesh network for disaster comms, a civic-tech assistant for government schemes, a self-hosted way for people to support indie builders. Pinned repos below have the details. More on how I think about building: [why I build](https://shoryavardhaan.vercel.app/blog/why-i-build).
 
 ### Currently exploring
 
-Neurotech and brain–computer interfaces, grounded/embodied planning in AI systems, and how cognitive science ideas translate into working code. Published research on grounded planning is on [ORCID](https://orcid.org/0009-0009-1370-5230).
+Applied AI, grounded/embodied planning in AI systems, and software that solves real problems — plus a growing curiosity about neurotech and brain–computer interfaces I haven't built in yet. Published research on grounded planning is on [ORCID](https://orcid.org/0009-0009-1370-5230).
 
 ### Stack
 
